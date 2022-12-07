@@ -1,0 +1,19 @@
+users always are fooled by the "free price tag" of the tech they use.
+when you see the word free or zero cost it is actually one of the factors that makes it so attractive, which actually it is a "BAIT" or fake image of freedom which helps in creating trap for the users to fall into. speaking of data privacy, the "free tag" label holds behind it the actual cost of using the internet, and by cost I mean us -the users-. just like throwing the bait for the fish, the data we ennter is being shared unknowingly betweeen corporations for profit.
+
+
+secondly privacy, privacy is not being noticable by the users since they get distracted by the tech. reminding users by privacy policies makes them more aware and reduces their willingness to reveal more sensetive information. 
+
+thirdly alternatives, alternatives for users do not generate enough profit to compete with existing technologies and therefore unable to market themselves. for example google is being used by almost 87% of computer users and 94% of mobile users. one reason for this dominance is that alternate platforms that have more reliable privacy are not famous. after all, their competitors are google, Meta and apple. and in such competition the winner is the ones who with greates numbers of users. Alternatives to googlem meta and others are hard to find and often unattractive to use due to the overwhelming hold the giants have on everyone.
+
+-------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------
+
+As we know, Cookies are used to track user's settings across different websites to make the use of the website more simple and fit the preferences of that user. However not all the cookies are essential and not all of them are useful. and this case we call these the cross-site cookies that track settings across several websites. 
+It is not possible to disable and block all cookies without losing the functionality of some websites so a good compromise is to block only cross-site cookies to protect data privacy.
+
+
+Moving forward to teh second option which is TOR browser, TOR browser stands for onion router. the special charecteristic that differentiate TOR from other routing protocols is that the messages traveling across TOR are encrypted in several layers which is known as nodes. Each node can only know the location of two other nodes, the one before and the one after it.This characteristic makes it so that a threat actor is not able to distinguish the actual source of a particular message and trace the path back to it to exploit vulnerabilities. this advantage makes TOR cabable of reducing capacity of tracking by keeping the identities anonymous. The only downside to this network is that the anonymity it provides is also useful for malicious actors that want to spread malware since it will be difficult for security authorities to track them down.
+
+Yet another way users can reduce the amount of tracking done on them by corporations is using VPNs. –virtual private network–is one that has a few main traits. Firstly, the main function that a VPN does is encrypting the IP address of the user from their Internet Service Provider and other partners so that no one can see the IP associated with their data information.Next is the ability of the VPN to detect interruptions in the connection and terminate sensitive programs. This protects the data in case of an attempted attack.
